@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+Cuadro uno: wow
+Cuadro dos: es increible
 ---
-Your text
-Use the left arrow to go back!
+Este es la primera vez que lo intento
+Aún no entiendo mucho
